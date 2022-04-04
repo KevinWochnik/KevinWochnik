@@ -4,7 +4,7 @@
 #### Front-end developer candidate
 
 ### Who Am I? :raising_hand_man:	
-As you already know, my name is Kevin. I have a engineers degree in the field of energetics, but currently I'm a master's degree student in the field of production engineering. I recently started to be interested in programming :student:. My adventure with programming started in 2020, but then it was only by sheer curiosity. In 2021 I took programming seriously and started a really good Front-end course at udemy. Till this day I'm learning all the technologies required to became a good programmer and start working in a company. 
+As you already know, my name is Kevin. I have a engineers degree in the field of energetics, but currently I'm a master's degree student in the field of production engineering. I recently started to be interested in programming :student:. My adventure with programming started in 2020, but then it was only by sheer curiosity. In 2021 I took programming seriously and started a really good Front-end course at udemy. To the present day I'm learning all the technologies required to became a good programmer and start working in a company. 
 ##### Here are some points, that help you better know me.
 
 ### What have I already learned (my skills) :book:
