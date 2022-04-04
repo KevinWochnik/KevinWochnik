@@ -27,6 +27,11 @@ As you already know, my name is Kevin. I have a engineers degree in the field of
 * Express,
 * MongoDB.
 
+### My language proficiency levels
+* Polish - Native
+* English - Upper-intermediate in writing and speaking. I understand highly advanced english.
+* German - Intermediate in writing and speaking. I understand upper-intermediate german.
+
 ### My other interests in the field of programming :man_scientist:	
 I am a huge fan of watching YouTube films about programming, where can it be used, what are the technologies used in programming and a lot more! Recently I won a great book about JavaScript - "Święte Wojny Javascriptu" by Bartłomiej Borowczyk and Jakub Król, at a live broadcast at their YouTube channel. (I have already read the half of it :satisfied:). Besides that, I follow at LinkedIn and Facebook a lot of interesting personas, who are well known programmers around Poland and the World. Recently I started to try my CSS skills at [cssbattle.dev](https://cssbattle.dev/player/nFsQb3WsGwVyuUUxd94ipR3HzcY2), and did some great job! 
 
