@@ -27,7 +27,7 @@ As you already know, my name is Kevin. I have a engineers degree in the field of
 * Express,
 * MongoDB.
 
-### My language proficiency levels
+### My language proficiency levels :speaking_head:
 * Polish - Native
 * English - Upper-intermediate in writing and speaking. I understand highly advanced english.
 * German - Intermediate in writing and speaking. I understand upper-intermediate german.
