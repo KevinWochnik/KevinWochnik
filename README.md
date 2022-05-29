@@ -12,12 +12,13 @@ As you already know, my name is Kevin. I have a engineers degree in the field of
 * CSS (including sass and scss),
 * Javascript ES6,
 * Git,
+* Basics in React,
 * Creating docummentation about a project,
 * My latest self made project :point_right:	[Fitness-Buddy](https://kevinwochnik.github.io/Fitness-Buddy/).
 
 ### What am I currently focusing on while learning :nerd_face:
 * Extending my skills in what I already know (all the things above :point_up_2:),
-* React (including redux) :atom_symbol:,
+* Advanced React (including redux) :atom_symbol:,
 * SQL,
 * Developing language skills (English, German).
 
