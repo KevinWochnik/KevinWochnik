@@ -9,32 +9,34 @@ As you already know, my name is Kevin. I have a engineers degree in the field of
 
 ### What have I already learned (my skills) :book:
 * HTML 5,
-* CSS (including sass and scss),
-* Javascript ES6,
+* CSS (including SASS and SCSS),
+* JavaScript ES6 and TypeScript,
 * Git,
-* Basics in React,
-* Creating docummentation about a project,
-* My latest self made project :point_right:	[Fitness-Buddy](https://kevinwochnik.github.io/Fitness-Buddy/).
+* React and Next.js,
+* Backend technologies such as Node.js, Express, and MongoDB,
+* Testing tools such as Jest, React-testing-library, and Cypress,
+* Tools for maintaining code quality: Prettier, ESlint, and Webpack,
+* UI libraries: MaterialUI, NextUI, and Tailwind,
+* Algorithmic thinking: Regularly solving problems on platforms such as LeetCode,
+* Knowledge of relational databases (SQL) and Excel.
 
 ### What am I currently focusing on while learning :nerd_face:
-* Extending my skills in what I already know (all the things above :point_up_2:),
-* Advanced React (including redux) :atom_symbol:,
+* Enhancing my skills in Next.js and TypeScript.
 * SQL,
-* Developing language skills (English, German).
+* Developing language skills (English, German),
+* Deepening my understanding of algorithms,
 
 ### What will I learn next :technologist:	
-* Node.js,
-* TypeScript,
-* Express,
-* MongoDB.
+* Advanced testing methodologies,
+* Advanced backend technologies.
 
 ### My language proficiency levels :speaking_head:
 * Polish - Native
-* English - Upper-intermediate in writing and speaking. I understand highly advanced english.
-* German - Intermediate in writing and speaking. I understand upper-intermediate german.
+* English - Advanced (C1) in reading and listening comprehension, Intermediate (B2+) in speaking and writing
+* German - Intermediate (B2) in reading and listening comprehension, Intermediate (B1+) in speaking and writing
 
 ### My other interests in the field of programming :man_scientist:	
-I am a huge fan of watching YouTube films about programming, where can it be used, what are the technologies used in programming and a lot more! Recently I won a great book about JavaScript - "Święte Wojny Javascriptu" by Bartłomiej Borowczyk and Jakub Król, at a live broadcast at their YouTube channel. (I have already read the half of it :satisfied:). Besides that, I follow at LinkedIn and Facebook a lot of interesting personas, who are well known programmers around Poland and the World. Recently I started to try my CSS skills at [cssbattle.dev](https://cssbattle.dev/player/nFsQb3WsGwVyuUUxd94ipR3HzcY2), and did some great job! 
+I am a huge fan of watching YouTube films about programming, where can it be used, what are the technologies used in programming and a lot more! I regularly read programming books such as "Understanding JavaScript: An Introduction to Programming" and "Clean Code", which provide me with valuable tips and help deepen my knowledge. I also strive to supplement my knowledge by watching YouTube channels specializing in frontend-related topics, as well as those discussing good programming practices. My self-improvement efforts also include continuous development on courses available on the Udemy platform.
 
 ### What do I do besides programming :weight_lifting:	
 I have been tutoring in mathematics for young people for a year, and I really like it. I go to the gym three times a week, because "Mens sana in corpore sano", what means, a healthy body makes a healthy mind :cartwheeling:.
